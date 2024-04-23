@@ -1,0 +1,2 @@
+# AzureCloud
+AzureCloud Trick
